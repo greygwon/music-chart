@@ -1,0 +1,6 @@
+Application name	music-chart
+API key	7aaf6effd4b92a2dc1415ee9aeaaa040
+Shared secret	44c8c8d6f8afe1a1996bfe2df5532850
+Registered to	greygwon
+
+http://ws.audioscrobbler.com/2.0/?method=chart.gettopartists&api_key=7aaf6effd4b92a2dc1415ee9aeaaa040&format=json
